@@ -12,8 +12,8 @@ Table of Contents
 # TODO 
 ## (May 31 - June 6)
 - [x] organize files & folders
-- [x] make notes on 00a_development
-- [ ] make notes on 00b_waterfall
-- [ ] make notes on 00c_risk
+- [x] make notes on [00a_development](https://universityofmanitoba.desire2learn.com/d2l/le/content/375299/viewContent/1916589/View)
+- [ ] make notes on [00b_waterfall](https://universityofmanitoba.desire2learn.com/d2l/le/content/375299/viewContent/1916590/View?ou=375299)
+- [ ] make notes on [00c_risk](https://universityofmanitoba.desire2learn.com/d2l/le/content/375299/viewContent/1916594/View)
 - [x] make table of contents generator script
 
