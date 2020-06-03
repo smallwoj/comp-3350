@@ -17,7 +17,8 @@ In the 'real world', the problem may not be known or vague. The scope of the pro
     - import unittest
 5. Maintenance
     - long term process of ensuring the software remains up to date
-[img](img/sdlc.png)
+    
+![img](../img/sdlc.png)
 
 ## Waterfall
 
