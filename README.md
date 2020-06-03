@@ -11,7 +11,7 @@ Table of Contents
 # TODO 
 ## (May 31 - June 6)
 - [x] organize files & folders
-- [ ] make notes on 00a_development
+- [x] make notes on 00a_development
 - [ ] make notes on 00b_waterfall
 - [ ] make notes on 00c_risk
 - [x] make table of contents generator script
