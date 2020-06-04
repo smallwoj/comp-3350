@@ -23,7 +23,32 @@ In the 'real world', the problem may not be known or vague. The scope of the pro
 ## Waterfall
 - Modelled after traditional engineering processes
 
-![img](../img/waterfall.png)
+![img](../img/waterfall_fig1.png)
 
-- it applies the phases of the [SDLC](#software-development-life-cycle) as steps in the method (sequentially)
+- It applies the phases of the [SDLC](#software-development-life-cycle) as steps in the method (sequentially)
+- Pros
+    - Allows us to think carefully about every step in the process
+        - Determine and solve problems ahead of time with low cost
+    - Integrates well with engineering processes
+        - Compliant with standards
+- Cons
+    - Difficult to plan & schedule (unknown how long each stage will take to complete)
+    - Difficult to backtrack to an earlier stage
+    - A problem found late into development can be costly to fix (design flaw)
+    - No software until the end of the process
+    - Product is <ins>documentation</ins>
+        - ![img](../img/waterfall_fig2.png)
+        - Diagrams go from one stage to the next
+        - Not helpful to end users
+        - Resistance to change (due to value from who created it)
+    - May not know if product is feasible/valuable
+        - Does it actually solve the problem?
+    - Users only involved at the beginning and end of the process
+    - Encourages roles
+        - Different teams working on different things
+        - Siloization
+    - Limited communication between teams
+        - No communication between teams aside from the documentation
+        - Each team may have a different vision of the product
+        - ![img](../img/waterfall_fig3.png)
 ## Risk
