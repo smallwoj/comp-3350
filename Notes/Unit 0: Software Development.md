@@ -2,7 +2,7 @@
 ## Development
 Programming so far has been all about solving a well-defined problem, with a small scope. They are standalone, meaning they don't need to rely on other components. The problem is specified by the instructor using pre-defined input. Typically, you've been working on your own. The software also has a limited lifespan.
 
-In the 'real world', the problem may not be known or vague. The scope of the project can vary widely and tend to be integrated with other projects. The requirements are often defined by the users, who are NOT software experts. There can be many many different ways to interact with the software (front end, apis, etc). It's unpredictable. Software projects are developed by a team., and are intended for long term use, meaning a long development time.
+In the 'real world', the problem may not be known or vague. The scope of the project can vary widely and tend to be integrated with other projects. The requirements are often defined by the users, who are NOT software experts. There can be many many different ways to interact with the software (front end, apis, etc). It's unpredictable. Software projects are developed by a team, and are intended for long term use, meaning a long development time.
 
 ### Software Development Life Cycle
 5 phases
@@ -21,5 +21,9 @@ In the 'real world', the problem may not be known or vague. The scope of the pro
 ![img](../img/sdlc.png)
 
 ## Waterfall
+- Modelled after traditional engineering processes
 
+![img](../img/waterfall.png)
+
+- it applies the phases of the [SDLC](#software-development-life-cycle) as steps in the method (sequentially)
 ## Risk
