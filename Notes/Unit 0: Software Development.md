@@ -26,6 +26,7 @@ In the 'real world', the problem may not be known or vague. The scope of the pro
 ![img](../img/waterfall_fig1.png)
 
 - It applies the phases of the [SDLC](#software-development-life-cycle) as steps in the method (sequentially)
+### Pros and Cons
 - Pros
     - Allows us to think carefully about every step in the process
         - Determine and solve problems ahead of time with low cost
@@ -51,4 +52,25 @@ In the 'real world', the problem may not be known or vague. The scope of the pro
         - No communication between teams aside from the documentation
         - Each team may have a different vision of the product
         - ![img](../img/waterfall_fig3.png)
+### Improvements
+- Prototypes
+    - Build a small-scale (functional) or sample or mockup (non-functional)
+    - ![img](../img/waterfall_fig4.png)
+- Iteration
+    - Apply the stages of [SDLC](#software-development-life-cycle) to subproblems (major features)
+    - Spiral model
+    - ![img](../img/waterfall_fig5.png)
+    - Often timeboxed
+        - Set a certain amount of time for each iteration
+    - Roles can work in parallel
+    - May have functional software at the end of the iteration
+    - May reduce siloization
+    - Despite all this, communication is done through documentation
+        - ![img](../img/waterfall_fig6.png)
 ## Risk
+- Risk is always a problem for software development
+- How to minimize?
+    - Better scheduling
+    - Understanding of the project
+    - More collaboration
+    - Tight feedback loop with users/customers
