@@ -12,6 +12,7 @@ Table of Contents
     * [Risk](Notes/unit_0_software_development.md#risk)
   * [Unit 1: Agile Software Development](Notes/unit_1_agile.md)
     * [Overview](Notes/unit_1_agile.md#overview)
+    * [Our Agile Process](Notes/unit_1_agile.md#our-agile-process)
 
 # TODO 
 ## (May 31 - June 10)
@@ -20,7 +21,7 @@ Table of Contents
 - [x] make notes on [00b_waterfall](https://universityofmanitoba.desire2learn.com/d2l/le/content/375299/viewContent/1916590/View?ou=375299)
 - [x] make notes on [00c_risk](https://universityofmanitoba.desire2learn.com/d2l/le/content/375299/viewContent/1916594/View)
 - [x] make notes on [01a_agile](https://universityofmanitoba.desire2learn.com/d2l/le/content/375299/viewContent/1916610/View)
-- [ ] make notes on [01b_processes](https://universityofmanitoba.desire2learn.com/d2l/le/content/375299/viewContent/1916614/View)
+- [x] make notes on [01b_processes](https://universityofmanitoba.desire2learn.com/d2l/le/content/375299/viewContent/1916614/View)
 - [ ] make notes on [01c_strategic_plan](https://universityofmanitoba.desire2learn.com/d2l/le/content/375299/viewContent/1916615/View)
 - [ ] make notes on [01d_metaphor](https://universityofmanitoba.desire2learn.com/d2l/le/content/375299/viewContent/1916616/View)
 - [ ] make notes on [01e_user_stories](https://universityofmanitoba.desire2learn.com/d2l/le/content/375299/viewContent/1916619/View)
