@@ -55,3 +55,45 @@
 - This is a document for a general audience, not just developers
   - Terminology can refer to the domain, but nothing from the developers
   - <ins><b>NO TECHNICAL DETAILS</b></ins>
+## Metaphor
+Ex. `A stack is implemented as a linked list with pointers to nodes ending in null`
+- None of those things actually exist
+- `null` is a metaphor for 0 is a metaphor for low voltage signal
+
+ex. Auction software
+- Ebay
+  - Happens over the span of a week or so
+- Auction house
+  - Happens live over the course of a minute
+- Dutch auction
+  - Start high, work low
+- First price sealed bid
+  - Highest bid without knowing other bids
+  
+These are all based on traditional auctions
+- Refer to items and bids
+
+Stock market
+- Agents
+- Boards
+
+Bazaar
+- Merchants
+- Stalls
+- Haggling
+
+Rummage sale
+- Table
+- Buyers
+
+Store
+- Inventory
+- Cart
+- Checkout
+
+Ex. A course registration system
+
+Visit to advisor
+- Suggested courses
+
+Not required, but important for planning
