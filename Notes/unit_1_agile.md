@@ -97,3 +97,15 @@ Visit to advisor
 - Suggested courses
 
 Not required, but important for planning
+## User Stories
+- Intended to replace the documentation done by analysys in heavyweight software development.
+- Describes what the user wants to accomplish
+- Ex. `I want to be able to see my grade in a course I've taken.`
+- <ins><b>NOT TECHNICAL</b></ins>
+- User stories should be written by users with developer participation
+  - The <ins>conversation</ins> is as important as the stories themselves
+- The language is simple, not technical
+- Helpful trick: Start with `As a ____, ...`
+  - Ex. `As a student, ...`
+
+![img](../img/agile_fig4.png)
