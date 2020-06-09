@@ -132,3 +132,18 @@ Not required, but important for planning
 - Cost of story: estimated time to implement
 - Determined primarily by devs
 - Unit based on timebox
+## Planning Game
+- Users & devs create stories
+- Devs estimate cost
+- Users prioritize, based on estimates & time
+- Cost estimation can be a game
+  - Ex. planning poker
+    - Each dev secretly estimates cost
+    - Share simultaneously
+    - Close -> agreement
+    - If not -> discussion further, repeat
+- Long estimates are less accurate
+  - Break down into smaller stories & estimate again
+- Too many short stories can be difficult to manage
+  - Merge together if it makes sense
+- Estimating process gets easier as time goes on

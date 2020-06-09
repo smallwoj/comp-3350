@@ -21,6 +21,7 @@ Table of Contents
       * [Priorities](Notes/unit_1_agile.md#priorities)
         * [Pareto Principle](Notes/unit_1_agile.md#pareto-principle-(80-20-rule))
       * [Estimating Time](Notes/unit_1_agile.md#estimating-time)
+    * [Planning Game](Notes/unit_1_agile.md#planning-game)
 
 # TODO 
 ## (May 31 - June 10)
