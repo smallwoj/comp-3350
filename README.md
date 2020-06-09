@@ -17,6 +17,10 @@ Table of Contents
       * [Vision Statement](Notes/unit_1_agile.md#vision-statement)
     * [Metaphor](Notes/unit_1_agile.md#metaphor)
     * [User Stories](Notes/unit_1_agile.md#user-stories)
+    * [Release Planning](Notes/unit_1_agile.md#release-planning)
+      * [Priorities](Notes/unit_1_agile.md#priorities)
+        * [Pareto Principle](Notes/unit_1_agile.md#pareto-principle-(80-20-rule))
+      * [Estimating Time](Notes/unit_1_agile.md#estimating-time)
 
 # TODO 
 ## (May 31 - June 10)
@@ -29,5 +33,5 @@ Table of Contents
 - [x] make notes on [01c_strategic_plan](https://universityofmanitoba.desire2learn.com/d2l/le/content/375299/viewContent/1916615/View)
 - [x] make notes on [01d_metaphor](https://universityofmanitoba.desire2learn.com/d2l/le/content/375299/viewContent/1916616/View)
 - [x] make notes on [01e_user_stories](https://universityofmanitoba.desire2learn.com/d2l/le/content/375299/viewContent/1916619/View)
-- [ ] make notes on [01f_release_plan](https://universityofmanitoba.desire2learn.com/d2l/le/content/375299/viewContent/1916622/View)
+- [x] make notes on [01f_release_plan](https://universityofmanitoba.desire2learn.com/d2l/le/content/375299/viewContent/1916622/View)
 - [ ] make notes on [01g_planning_game](https://universityofmanitoba.desire2learn.com/d2l/le/content/375299/viewContent/1916624/View)

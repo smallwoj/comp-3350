@@ -109,3 +109,26 @@ Not required, but important for planning
   - Ex. `As a student, ...`
 
 ![img](../img/agile_fig4.png)
+
+## Release Planning
+- Each release implements 'big' user stories (major features)
+- Create stories, with time estimates & priorities
+### Priorities
+- Determine order of implementation
+  - High
+    - Functionality we need to make the product usable
+    - All together make a `Minimal Viable Product (MVP)`
+  - Medium
+    - Valuable but not necessary
+  - Low
+    - May not be necessary, evaluate later
+#### Pareto Principle (80-20 Rule)
+80% of usability comes from 20% of features.
+- Build those features first
+- Part of the conversation with users
+### Estimating Time
+- Releases (and iterations) are timeboxed
+- Implement what we can in fixed time
+- Cost of story: estimated time to implement
+- Determined primarily by devs
+- Unit based on timebox
