@@ -24,15 +24,21 @@ Table of Contents
     * [Planning Game](Notes/unit_1_agile.md#planning-game)
 
 # TODO 
-## (May 31 - June 10)
-- [x] organize files & folders
-- [x] make notes on [00a_development](https://universityofmanitoba.desire2learn.com/d2l/le/content/375299/viewContent/1916589/View)
-- [x] make notes on [00b_waterfall](https://universityofmanitoba.desire2learn.com/d2l/le/content/375299/viewContent/1916590/View?ou=375299)
-- [x] make notes on [00c_risk](https://universityofmanitoba.desire2learn.com/d2l/le/content/375299/viewContent/1916594/View)
-- [x] make notes on [01a_agile](https://universityofmanitoba.desire2learn.com/d2l/le/content/375299/viewContent/1916610/View)
-- [x] make notes on [01b_processes](https://universityofmanitoba.desire2learn.com/d2l/le/content/375299/viewContent/1916614/View)
-- [x] make notes on [01c_strategic_plan](https://universityofmanitoba.desire2learn.com/d2l/le/content/375299/viewContent/1916615/View)
-- [x] make notes on [01d_metaphor](https://universityofmanitoba.desire2learn.com/d2l/le/content/375299/viewContent/1916616/View)
-- [x] make notes on [01e_user_stories](https://universityofmanitoba.desire2learn.com/d2l/le/content/375299/viewContent/1916619/View)
-- [x] make notes on [01f_release_plan](https://universityofmanitoba.desire2learn.com/d2l/le/content/375299/viewContent/1916622/View)
-- [ ] make notes on [01g_planning_game](https://universityofmanitoba.desire2learn.com/d2l/le/content/375299/viewContent/1916624/View)
+## June 12 - June 26
+- [ ] make notes on [01h](https://universityofmanitoba.desire2learn.com/d2l/le/content/375299/viewContent/1925559/View)
+- [ ] make notes on [01i](https://universityofmanitoba.desire2learn.com/d2l/le/content/375299/viewContent/1925560/View)
+- [ ] make notes on [01j](https://universityofmanitoba.desire2learn.com/d2l/le/content/375299/viewContent/1925561/View)
+- [ ] make notes on [02a_version_control](https://universityofmanitoba.desire2learn.com/d2l/le/content/375299/viewContent/1925562/View)
+- [ ] make notes on [02b_git1](https://universityofmanitoba.desire2learn.com/d2l/le/content/375299/viewContent/1925563/View)
+- [ ] make notes on [02c_git2](https://universityofmanitoba.desire2learn.com/d2l/le/content/375299/viewContent/1925567/View)
+- [ ] make notes on [02d_git3](https://universityofmanitoba.desire2learn.com/d2l/le/content/375299/viewContent/1925568/View)
+- [ ] make notes on [02e_git4](https://universityofmanitoba.desire2learn.com/d2l/le/content/375299/viewContent/1925570/View)
+- [ ] make notes on [03a_intro_to_testing](https://universityofmanitoba.desire2learn.com/d2l/le/content/375299/viewContent/1925583/View)
+- [ ] make notes on [03b_unit_testing](https://universityofmanitoba.desire2learn.com/d2l/le/content/375299/viewContent/1925584/View)
+- [ ] make notes on [03c_what_tests_do](https://universityofmanitoba.desire2learn.com/d2l/le/content/375299/viewContent/1925585/View)
+- [ ] make notes on [03d_test_coverage](https://universityofmanitoba.desire2learn.com/d2l/le/content/375299/viewContent/1925586/View)
+- [ ] make notes on [03e_test_cases](https://universityofmanitoba.desire2learn.com/d2l/le/content/375299/viewContent/1925587/View)
+- [ ] make notes on [03f_testing_techniques](https://universityofmanitoba.desire2learn.com/d2l/le/content/375299/viewContent/1925589/View)
+- [ ] make notes on [03g_tdd](https://universityofmanitoba.desire2learn.com/d2l/le/content/375299/viewContent/1925592/View)
+- [ ] make notes on [03h_outcomes_of_testing](https://universityofmanitoba.desire2learn.com/d2l/le/content/375299/viewContent/1925593/View)
+
