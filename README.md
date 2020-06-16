@@ -24,12 +24,15 @@ Table of Contents
     * [Planning Game](Notes/unit_1_agile.md#planning-game)
       * [Big User Stories](Notes/unit_1_agile.md#big-user-stories)
       * [Small User Stories](Notes/unit_1_agile.md#small-user-stories)
+    * [Iteration Planning Using Developer Tasks](Notes/unit_1_agile.md#iteration-planning-using-developer-tasks)
+    * [Project Architecture](Notes/unit_1_agile.md#project-architecture)
+      * [3 Layer Architecture](Notes/unit_1_agile.md#3-layer-architecture)
 
 # TODO 
 ## June 12 - June 26
-- [ ] make notes on [01h](https://universityofmanitoba.desire2learn.com/d2l/le/content/375299/viewContent/1925559/View)
-- [ ] make notes on [01i](https://universityofmanitoba.desire2learn.com/d2l/le/content/375299/viewContent/1925560/View)
-- [ ] make notes on [01j](https://universityofmanitoba.desire2learn.com/d2l/le/content/375299/viewContent/1925561/View)
+- [x] make notes on [01h](https://universityofmanitoba.desire2learn.com/d2l/le/content/375299/viewContent/1925559/View)
+- [x] make notes on [01i](https://universityofmanitoba.desire2learn.com/d2l/le/content/375299/viewContent/1925560/View)
+- [x] make notes on [01j](https://universityofmanitoba.desire2learn.com/d2l/le/content/375299/viewContent/1925561/View)
 - [ ] make notes on [02a_version_control](https://universityofmanitoba.desire2learn.com/d2l/le/content/375299/viewContent/1925562/View)
 - [ ] make notes on [02b_git1](https://universityofmanitoba.desire2learn.com/d2l/le/content/375299/viewContent/1925563/View)
 - [ ] make notes on [02c_git2](https://universityofmanitoba.desire2learn.com/d2l/le/content/375299/viewContent/1925567/View)

@@ -164,3 +164,55 @@ Highest priority big stories will be broken down & planned for this release
 - *Just enough* planning -> YAGNI
   - You Aren't Gonna Need It
   - Might not need something in your planning
+
+## Iteration Planning Using Developer Tasks
+Describe the technical tasks that need to be completed to implement stories.
+
+Each is a single activity.
+
+Each has a time estimate, based on small units, like single developer hours
+
+The development team works together to make the tasks in a brainstorming activity.
+
+Ex. Letter Grade
+- Allow the student to identify themselves by student number. `3 hours`
+- Retrieve a list of course numbers the student has taken. `5 hours`
+- Get a course name for a course number. `2 hours`
+- Display a list of courses ordered by name. `6 hours`
+- Pick a course from the list. `2 hours`
+- Look up a student's letter grade for a course. `2 hours`
+- Create a database, populated with data. `10 hours`
+
+Typically done on sticky notes.
+
+Some tasks may be shared by several stories.
+
+Split long tasks (typically less than 10 hours)
+- Ex. Split database task:
+  - Determine the table structure. `6 hours`
+  - Create an empty database. `4 hours`
+  - Populate db with fake data. `2 hours`
+  
+Dev tasks are assigned to devs
+
+Task estimation can use a planning game.
+- Ex. bid time estimates, lowest bid gets the task.
+## Project Architecture
+![img](../img/agile_fig5.png)
+- Low cohesion
+  - Too many things in one place
+  - makes the system unnecessarily difficult to work with
+- Tight coupling between components
+  - Know too much about each other
+  
+BAD
+
+Need high level organization of components with well defined communication
+- System architecture
+
+### 3 Layer Architecture
+![img](../img/agile_fig6.png)
+Components are <ins>only</ins>allowed to communicate as described by the arrows.
+
+Reflected in code structure
+- Separate Java packages
