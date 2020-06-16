@@ -133,6 +133,7 @@ Not required, but important for planning
 - Determined primarily by devs
 - Unit based on timebox
 ## Planning Game
+### Big User Stories
 - Users & devs create stories
 - Devs estimate cost
 - Users prioritize, based on estimates & time
@@ -147,3 +148,19 @@ Not required, but important for planning
 - Too many short stories can be difficult to manage
   - Merge together if it makes sense
 - Estimating process gets easier as time goes on
+### Small User Stories
+ex. Big story `Show me details about the courses I've completed.`
+- Letter grade
+- Calculate my GPA
+- How many credit hours left in my degree
+  
+Shared
+- `Generate my transcript` would use the same small stories
+  
+Prioritized separately from big user stories
+- High priority small stories are necessary for big stories
+
+Highest priority big stories will be broken down & planned for this release
+- *Just enough* planning -> YAGNI
+  - You Aren't Gonna Need It
+  - Might not need something in your planning

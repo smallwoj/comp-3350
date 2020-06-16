@@ -22,6 +22,8 @@ Table of Contents
         * [Pareto Principle](Notes/unit_1_agile.md#pareto-principle-(80-20-rule))
       * [Estimating Time](Notes/unit_1_agile.md#estimating-time)
     * [Planning Game](Notes/unit_1_agile.md#planning-game)
+      * [Big User Stories](Notes/unit_1_agile.md#big-user-stories)
+      * [Small User Stories](Notes/unit_1_agile.md#small-user-stories)
 
 # TODO 
 ## June 12 - June 26
