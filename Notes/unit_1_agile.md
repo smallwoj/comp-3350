@@ -212,7 +212,7 @@ Need high level organization of components with well defined communication
 
 ### 3 Layer Architecture
 ![img](../img/agile_fig6.png)
-Components are <ins>only</ins>allowed to communicate as described by the arrows.
+Components are <ins>only</ins> allowed to communicate as described by the arrows.
 
 Reflected in code structure
 - Separate Java packages
