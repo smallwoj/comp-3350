@@ -58,3 +58,120 @@
   - Test suite
     - Execute all the tests in each package
       - At each level of packages
+## What Tests Do
+- Unit tests should reveal faults and give observable results
+- Exercise the SUT in new ways
+- Ideally exhaustive
+  - Not possible
+- Choose a thorough set of representative test cases
+- Each test method is independent
+  - Not sequential
+- Outcomes are predictable and reproducable
+  - Randomness is worse than useless
+  - Minimize dependencies
+    - Ex. Avoid using external resources
+- Keep test code simple
+- Tests must test something
+  - Must check outcomes
+  - Look for specific results
+  - Check side effects as well as direct outputs
+- Check outcomes with assertions
+  - Not like C/Java `assert`
+  - Testing assertions log failures but keep going
+## Test Coverage
+- The amount of code in the SUT that is tested
+- Want to cover as much as reasonably possible
+  - Ex. if we have an `if/else`, write tests for both execution paths
+    - White box perspective
+- Choose the kind of test data that will give this kind of coverage
+  - Valid data
+    - Simple data
+    - More typical (complex) data
+      - Covers different situations
+    - Empty data
+    - Edge cases
+  - Invalid data
+  - Null data or missing data
+  - Failures noticed later
+## Testing Techniques
+- Where do you start?
+  - Simple cases
+  - "happy path"
+    - Valid data first
+  - Or invalid first
+  - "big picture" or "breadth first" 
+  - "depth search
+    - details
+- How to organize/structure tests?
+  - Focus on situations & scenarios
+    - `testEmptyList`
+    - `testShortLists`
+    - `testTypicalList`
+    - `testNullList`
+    - `testFound`
+    - `testEdgeCases`
+    - `testNotFound`
+    - `testInvalidKeys`
+  - Organization may be determined by approach
+  - Focus on one aspect or kind of test in each method
+- Test code must be good code
+    - Avoid duplicate code -> move to a shared method
+    - Keep test code simple
+      - Linear
+      - Avoid if/else & loops
+- Name tests appropriately
+  - Good names -> avoid comments
+  - Keep names up to date
+- Testing to-dos
+  - Instead of a note, force a fail
+    - `fail("need test for null list")`
+  - That way you still need to do it
+- Testing exceptions
+  - Use try catches for specific exceptions
+  - ```java
+    try 
+    {
+        method(bad data)
+        fail("expected exception")
+    }
+    catch (ExpectedException e)
+    {
+        //cool
+    }
+    ```
+## Test Driven Development
+- TDD
+- A "test-first" approach
+- Iteratively:
+  1. Write one <ins>simple</ins> test that fails
+     - RED
+  2. Write <ins>just enough code</ins> for that test to pass
+     - GREEN
+  3. Clean up the code you've written
+     - Both SUT & test
+     - REFACTOR
+   - Repeat steps until complete
+- Makes sure the tests are written
+- Makes writing tests less of a chore
+- Helps test coverage
+- Encourages careful consideration before coding
+  - Understanding the problem
+  - Tests are "executable requirements"
+  - YAGNI
+    - Focus on core problem by writing tests
+## Outcomes of Testing
+- Verification & validation
+- Uncover & fix latent faults
+- During development
+  - Helps collaboration
+  - Testable code <-> good design
+  - Careful consideration
+- After development
+  - Act as documentation for SUT
+  - After changes (features/fixes) tests act as invariants
+    - Regression testing
+      - Ensures changes don't introduce errors
+  - Monitors system health
+  - Standards compliance
+  - Assure code reusability
+- Ensure code is <ins>done</ins>
