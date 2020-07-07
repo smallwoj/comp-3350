@@ -93,6 +93,39 @@
   - Invalid data
   - Null data or missing data
   - Failures noticed later
+## Test Cases
+- Examples
+- Binary Search
+- `[1, 2, 4, 7, 10, 11, 23, 57]`
+  - Look for 10
+  - Look for 11 (one off)
+  - Look for 7 (other way)
+  - Look for 9 (not in there)
+  - Look for 5 (not in)
+  - Look for 1 and 57 (edge cases)
+  - Look for 0 and 58 (one offs)
+  - Look for -3 or 68 (a bit further)
+  - Even size
+  - Odd size
+  - Empty list
+  - Small list (1 and 2 elements)
+  - lLists with duplicates
+  - Lists with negative numbers
+  - Null list
+  - Null values in list
+  - Null search key
+  - Unsorted list? very tough to test, don't even test
+- Title case captializer
+  - `"title case CAPTIALizer"` -> `"Title Case Captializer"`
+  - empty string
+  - one word
+    - `"HELLO", "hello", "hELLO"` -> `"Hello"`
+  - two words
+  - punctuation
+  - multiple punctuation
+  - non letters
+  - null
+- Don't reinvent the wheel
 ## Testing Techniques
 - Where do you start?
   - Simple cases
@@ -134,7 +167,7 @@
         method(bad data)
         fail("expected exception")
     }
-    catch (ExpectedException e)
+    catch (ExpectedException ignored)
     {
         //cool
     }

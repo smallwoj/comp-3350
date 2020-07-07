@@ -38,6 +38,7 @@ Table of Contents
     * [Unit Testing](Notes/unit_3_unit_testing.md#unit-testing)
     * [What Tests Do](Notes/unit_3_unit_testing.md#what-tests-do)
     * [Test Coverage](Notes/unit_3_unit_testing.md#test-coverage)
+    * [Test Cases](Notes/unit_3_unit_testing.md#test-coverage)
     * [Testing Techniques](Notes/unit_3_unit_testing.md#testing-techniques)
     * [Test Driven Development](Notes/unit_3_unit_testing.md#test-driven-development)
     * [Outcomes of Testing](Notes/unit_3_unit_testing.md#outcomes-of-testing)
