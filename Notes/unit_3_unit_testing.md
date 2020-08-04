@@ -11,11 +11,14 @@
   - Fault
     - A static defect in the system
     - Bug
+    - Ex. Leaving a bank vault unlocked
   - Error
     - Incorrect state caused by a fault
     - Unobserved
+    - Ex. Someone taking all the money
   - Failure
     - Observed incorrect behaviour
+    - Ex. Someone can't take out money cause it's all gone
 - Testing can uncover faults
   - Not debugging
     - Which is finding a fault that caused failure
