@@ -73,3 +73,5 @@ Table of Contents
     * [Cross Cutting Concerns](Notes/unit_5_design_principles.md#cross-cutting-concerns)
     * [Design Smells](Notes/unit_5_design_principles.md#design-smells)
     * [Anti-Patterns](Notes/unit_5_design_principles.md#anti-patterns)
+  * [Unit 6: Refactoring](Notes/unit_6_refactoring.md)
+    * [Common Refactorings](Notes/unit_6_refactoring.md#common-refactorings)
