@@ -1,7 +1,6 @@
 # COMP-3350
 Table of Contents
 =================
-* [TODO](#TODO)
 * [Notes](Notes)
   * [Unit 0: Software Development](Notes/unit_0_software_development.md)
     * [Development](Notes/unit_0_software_development.md#development)
